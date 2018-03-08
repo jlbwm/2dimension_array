@@ -1,2 +1,2 @@
-# 2dimension_array
-get value from 2dimension_array through pointer or value
+# 2dimension\_array
+get value from 2dimension\_array through pointer or value
